@@ -1,0 +1,43 @@
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory (for Yarn)
+.pnp/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Environment variables
+.env
+
+# Coverage directory (for testing tools like Jest)
+/coverage/
+
+# Configuration for Webpack
+/.webpack/
+
+# Babel cache
+/.babel/
+
+# Jest cache
+/jest/
+
+# Storybook build (if using Storybook for UI components)
+/.storybook/
+
+# MacOS Finder specific files
+.Trashes
